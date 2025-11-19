@@ -24,6 +24,8 @@ Webhead.ini (if present)
 
 ▶️ Automatically launches the game (Webhead.exe) after applying all patches.
 
+This project is licensed under the GNU General Public License v3.0 (GPL-3.0).
+See https://www.gnu.org/licenses/gpl-3.0.html for full license text.
 
 <hr>
 
@@ -54,3 +56,6 @@ Webhead.ini (если существует).
 🔤 Работа с INI-файлами в UTF-8, без создания новых лишних файлов.
 
 ▶️ Автоматический запуск игры (Webhead.exe) после применения всех патчей.
+
+Этот проект лицензирован в соответствии с GNU General Public License версии 3.0 (GPL-3.0). Полный текст лицензии доступен по ссылке: https://www.gnu.org/licenses/gpl-3.0.html
+
